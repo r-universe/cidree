@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "forestdata"]
-	path = forestdata
-	url = https://github.com/cidree/forestdata
 [submodule "rpostgis"]
 	path = rpostgis
 	url = https://github.com/cidree/rpostgis
