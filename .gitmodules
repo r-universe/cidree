@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "OTBsegm"]
+	path = OTBsegm
+	url = https://github.com/cidree/otbsegm
 [submodule "duckspatial"]
 	path = duckspatial
 	url = https://github.com/cidree/duckspatial
