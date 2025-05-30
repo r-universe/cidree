@@ -14,3 +14,6 @@
 [submodule "rpostgis"]
 	path = rpostgis
 	url = https://github.com/cidree/rpostgis
+[submodule "silviculture"]
+	path = silviculture
+	url = https://github.com/cidree/silviculture
