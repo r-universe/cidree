@@ -5,6 +5,9 @@
 [submodule "OTBsegm"]
 	path = OTBsegm
 	url = https://github.com/cidree/otbsegm
+[submodule "duckh3"]
+	path = duckh3
+	url = https://github.com/cidree/duckh3
 [submodule "duckspatial"]
 	path = duckspatial
 	url = https://github.com/cidree/duckspatial
